@@ -1,0 +1,19 @@
+{
+  "name": "whisperbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tsx src/index.ts"
+  },
+  "author": "shonestew",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "grammy": "^1.38.1",
+    "mongoose": "^8.19.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.3.0"
+  }
+}
