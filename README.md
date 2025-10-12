@@ -12,7 +12,7 @@
 
 ## 👔 Скриншот
 
-[![Screenshot](https://raw.githubusercontent.com/yourusername/whisper-shonestew-bot/main/.github/assets/screenshot.jpg)](https://raw.githubusercontent.com/yourusername/whisper-shonestew-bot/main/.github/assets/screenshot.jpg)
+[![Screenshot](https://raw.githubusercontent.com/shonestew/whisper-shonestew-bot/main/.github/assets/screenshot.jpg)](https://raw.githubusercontent.com/shonestew/whisper-shonestew-bot/main/.github/assets/screenshot.jpg)
 
 *(Примечание: Добавьте реальный скриншот в репозиторий для лучшего вида!)*
 

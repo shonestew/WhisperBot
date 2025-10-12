@@ -12,7 +12,7 @@ export default class ReadWhisperMessageHandler {
     this.bot.callbackQuery(/^msg_(\d+)$/, async (ctx) => {
       const msg_id = Number(ctx.callbackQuery.data.replace("msg_", ""))
       const msg_db = new MsgDB(msg_id)
-      const msg_info = msg_db.getMsg()
+      const msg_info = await msg_db.getMessage()
 
       if (!msg_info) {
         await ctx.answerCallbackQuery({ text: "Сообщение не найдено", show_alert: true })

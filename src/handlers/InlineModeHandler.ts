@@ -48,7 +48,7 @@ export default class InlineModeHandler {
         })
       } else {
         const msg_id = generateMsgId()
-        new MsgDB(msg_id).addMsg(parsed_query_text)
+        await new MsgDB(msg_id).saveMessage(parsed_query_text)
 
         const keyboard = new InlineKeyboard().text("Открыть сообщение", `msg_${msg_id}`)
 
