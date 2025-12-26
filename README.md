@@ -10,12 +10,6 @@
 * [✔️] Отправка приватных "прошептанных" сообщений по ID или username в любом чате
 * [✔️] Работает в инлайн-режиме — вводите команды прямо в группах или личках
 
-## 👔 Скриншот
-
-[![Screenshot](https://raw.githubusercontent.com/shonestew/whisper-shonestew-bot/main/.github/assets/screenshot.jpg)](https://raw.githubusercontent.com/shonestew/whisper-shonestew-bot/main/.github/assets/screenshot.jpg)
-
-*(Примечание: Добавьте реальный скриншот в репозиторий для лучшего вида!)*
-
 ## 🚀 Установка
 
 1. Добавьте [@whisper_shonestew_bot](https://t.me/whisper_shonestew_bot) в ваш Telegram (или создайте своего бота через [@BotFather](https://t.me/botfather)).
